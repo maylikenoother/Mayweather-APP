@@ -68,9 +68,7 @@ input:focus {
     0% {
         font-size: 0px;
     }
-    50% {
-        font-size: 30.2px;
-    }
+  
     100% {
             font-size: 30px;
     }
